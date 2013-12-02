@@ -48,6 +48,7 @@ html {
 
 body {
   margin: 0;
+  
 }
 
 a:focus {
@@ -304,7 +305,8 @@ body {
   font-size: 14px;
   line-height: 1.428571429;
   color: #333333;
-  background-color: #ffffff;
+  background-color:#041226;
+  
 }
 
 input,
@@ -324,14 +326,14 @@ textarea {
 }
 
 a {
-  color: #428bca;
+  color: yellowgreen;
   text-decoration: none;
 }
 
 a:hover,
 a:focus {
-  color: #2a6496;
-  text-decoration: underline;
+  color: green;
+  text-decoration: none;
 }
 
 a:focus {
@@ -345,9 +347,9 @@ img {
 }
 
 .img-responsive {
-  display: block;
+  display:inline-block;
   height: auto;
-  max-width: 40%;
+  max-width: 100%;
 }
 
 .img-rounded {
@@ -4017,6 +4019,7 @@ textarea.input-group-sm > .input-group-btn > .btn {
   min-height: 50px;
   margin-bottom: 20px;
   border: 1px solid transparent;
+  
 }
 
 .navbar:before,
@@ -4495,12 +4498,12 @@ textarea.input-group-sm > .input-group-btn > .btn {
 }
 
 .navbar-inverse .navbar-brand {
-  color: #999999;
+  color: yellowgreen;
 }
 
 .navbar-inverse .navbar-brand:hover,
 .navbar-inverse .navbar-brand:focus {
-  color: #ffffff;
+  color: green;
   background-color: transparent;
 }
 
@@ -4509,12 +4512,12 @@ textarea.input-group-sm > .input-group-btn > .btn {
 }
 
 .navbar-inverse .navbar-nav > li > a {
-  color: #999999;
+  color: yellowgreen;
 }
 
 .navbar-inverse .navbar-nav > li > a:hover,
 .navbar-inverse .navbar-nav > li > a:focus {
-  color: #ffffff;
+  color: green;
   background-color: transparent;
 }
 
@@ -4922,8 +4925,10 @@ a.list-group-item.active > .badge,
   font-size: 16px;
   font-weight: 200;
   line-height: 2.1428571435;
-  color: inherit;
-  background-color: #eeeeee;
+  color: #cccccc;
+  background-image: url('metal031.jpg');
+  background-repeat: repeat;
+  
 }
 
 .jumbotron h1 {
