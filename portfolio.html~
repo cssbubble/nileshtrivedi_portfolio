@@ -27,21 +27,14 @@
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </button>
-          <a class="navbar-brand" href="http://startbootstrap.com">nilesh trivedi</a>
+          <a class="navbar-brand" href="http://www.nileshtrivedi.com">nilesh trivedi</a>
         </div>
 
         <!-- Collect the nav links, forms, and other content for toggling -->
         <div class="collapse navbar-collapse navbar-ex1-collapse">
-          <!--<ul class="nav navbar-nav">
-            
-				<li><a href="#contact">personal</a></li>
-				<li><a href="#contact">hobbies</a></li>				
-				<li><a href="#contact">professional</a></li>            
-            <li><a href="#services">academics</a></li>            
-          </ul>-->
           <ul class="pull-right nav navbar-nav">
-            <li><a href="www.twitter.com/nileshtrivedi">twitter</a></li>
-				<li><a href="www.github.com/nileshtrivedi">github</a></li>	                     
+            <li><a href="https://www.twitter.com/nileshtrivedi">twitter</a></li>
+				<li><a href="https://www.github.com/nileshtrivedi">github</a></li>	                     
           </ul>
         </div><!-- /.navbar-collapse -->
       </div><!-- /.container -->
@@ -50,23 +43,20 @@
     <div class="container">
 		<div class="jumbotron">
       <div class="row">
-      
-        
+             
           <h1 class="page-header"><small>I am Programmer, Philosopher, Writer, Guitarist, Voracious reader, Traveller</small></h1>
-        	<p>Find out the projects and work done by me.</p>
-
+        	
       </div>
 
       <div class="row">
         <h3>Interactive Physics Simulation In The Browser </h3>
-        
           
         <div class="col-lg-5 col-md-5">
           <a href="https://hasgeek.tv/jsfoo/2013-2/688-interactive-physics-simulation-in-the-browser-what-i-learned"><img class="img-responsive" src="physics.png"></a>
         </div>
 
         <div class="col-lg-7 col-md-7">
-			<a href="hasgeek.tv"> hasgeek.tv</a>          
+			<a href="https://hasgeek.tv"> hasgeek.tv</a>          
           
           <p>I have been working on interactive 2-d physics simulation in the browser by writing a pure-Javascript physics 
           engine from scratch. I learned here numerical integration methods, rigid body dynamics, constrained dynamics 
@@ -82,18 +72,16 @@
       <hr>
 
      <div class="row">
-        <h3>GupShup Technology Mumbai</h3>
+        <h3>GupShup</h3>
         <div class="col-lg-5 col-md-5">
-          <a href="gupshup.me"><img class="img-responsive" src="gupshup.png"></a>
+          <a href="httm://gupshup.me/"><img class="img-responsive" src="gupshup.png"></a>
         </div>
 
         <div class="col-lg-7 col-md-7">
-          <a href="gupshup.me">gupshup.me</a>
+          <a href="http://gupshup.me/">gupshup.me</a>
           <h4>Lead Software Engineer 2009-2013</h4>
           <p>Worked as a Lead Software Engineer for 4 years. I worked specially on ruby based facebook app.</p>
-          
         </div>
-
       </div>
 
       <hr>
@@ -111,11 +99,9 @@
           by NASA, hosted at New Delhi, India by Team Indus. 
           I was assisted by Chinmay DasGupta and Mounika Palreddy in developing this app.</p>
 
-				<p>The app is written using Ruby, Sinatra, MongoDB & Google Maps API. 
-				The Source code is available under GNU GPL as a git repository. </p>
-          
+			<p>The app is written using Ruby, Sinatra, MongoDB & Google Maps API. 
+				The Source code is available under GNU GPL as a git repository. </p>         
         </div>
-
       </div>
 
       <hr>
@@ -123,7 +109,7 @@
       <div class="row">
         <h3>Live Coding</h3>
         <div class="col-lg-5 col-md-5">
-          <a href="#"><img class="img-responsive" src="livecoding.png"></a>
+          <a href="http://www.nileshtrivedi.com/live-coding/"><img class="img-responsive" src="livecoding.png"></a>
         </div>
 
         <div class="col-lg-7 col-md-7">
@@ -131,9 +117,7 @@
           <h4>Personal Project</h4>
           <p>This idea is for programmer where they can test their code immediately. 
           Here code itself is used to test expected behaviour of another code.</p>
-          
         </div>
-
       </div>
 
       <hr>
@@ -141,7 +125,7 @@
       <div class="row">
         <h3>Open Source Projects</h3>
         <div class="col-lg-5 col-md-5">
-          <a href="#"><img class="img-responsive" src="github.png"></a>
+          <a href="https://github.com/nileshtrivedi"><img class="img-responsive" src="github.png"></a>
         </div>
 
         <div class="col-lg-7 col-md-7">
@@ -167,12 +151,12 @@
       <div class="row">
          <h3>Blog Posts</h3>
         <div class="col-lg-5 col-md-5">
-          <a href="nileshtrivedi.com"><img class="img-responsive" src="nileshtrivedi.png"></a>
+          <a href="http://nileshtrivedi.com"><img class="img-responsive" src="nileshtrivedi.png"></a>
         </div>
 
         <div class="col-lg-7 col-md-7">
          
-          <p> Writings and my opinion on various topics you can find it here. <a href="nileshtrivedi.com">nileshtrivedi.com</a></p>
+          <p> Writings and my opinion on various topics you can find it here. <a href="http://nileshtrivedi.com">nileshtrivedi.com</a></p>
           
         </div>
 
@@ -199,7 +183,7 @@
       <footer>
         <div class="row">
           <div class="col-lg-12">
-            <p>Copyright &copy; Company 2013 &middot; Facebook &middot; Twitter &middot; Google+</p>
+            
           </div>
         </div>
       </footer>
