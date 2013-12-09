@@ -304,8 +304,8 @@ body {
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 14px;
   line-height: 1.428571429;
-  color: #333333;
-  background-color:#041226;
+  color: #555555;
+  background-color:#cccccc;
   
 }
 
@@ -326,13 +326,13 @@ textarea {
 }
 
 a {
-  color: yellowgreen;
+  color: #0088ff;
   text-decoration: none;
 }
 
 a:hover,
 a:focus {
-  color: green;
+  color: #0000ff;
   text-decoration: none;
 }
 
@@ -4498,12 +4498,12 @@ textarea.input-group-sm > .input-group-btn > .btn {
 }
 
 .navbar-inverse .navbar-brand {
-  color: yellowgreen;
+  color: #cccccc;
 }
 
 .navbar-inverse .navbar-brand:hover,
 .navbar-inverse .navbar-brand:focus {
-  color: green;
+  color: #eeeeee;
   background-color: transparent;
 }
 
@@ -4512,12 +4512,12 @@ textarea.input-group-sm > .input-group-btn > .btn {
 }
 
 .navbar-inverse .navbar-nav > li > a {
-  color: yellowgreen;
+  color: #cccccc;
 }
 
 .navbar-inverse .navbar-nav > li > a:hover,
 .navbar-inverse .navbar-nav > li > a:focus {
-  color: green;
+  color: #eeeeee;
   background-color: transparent;
 }
 
@@ -4925,10 +4925,8 @@ a.list-group-item.active > .badge,
   font-size: 16px;
   font-weight: 200;
   line-height: 2.1428571435;
-  color: #cccccc;
-  background-image: url('metal031.jpg');
-  background-repeat: repeat;
-  
+  color: #222222;
+    
 }
 
 .jumbotron h1 {
