@@ -785,9 +785,7 @@ pre code {
   border-radius:	3px;
 }
 
-.row:nth-of-type(even){
-	background-color: #eeeeee;
-	}
+
 
 .row:before,
 .row:after {
