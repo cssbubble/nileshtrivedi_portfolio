@@ -14,8 +14,10 @@
 	margin-bottom: 25px;
 	padding-left: 10px;
 	padding-bottom: 50px;
-	border-bottom: 1px solid gray;
-		
+	
+	border: 1px solid #ccc;
+	background-color: #efefef
+	
 }
 
 
@@ -310,7 +312,8 @@ html {
 }
 
 body {
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: Balthazar, Cardo, Ovo, serif;
+	/*font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;*/
   font-size: 18px;
   line-height: 1.6;
   color: #555555;
@@ -562,7 +565,7 @@ h4 small,
 .page-header {
   padding-bottom: 9px;
   margin: 40px 0 20px;
-  font-family: 'Belleza', sans-serif;
+  font-family: 'Alegreya Sans', sans-serif;
   width: 60%;
   margin: auto;
 }
@@ -792,12 +795,9 @@ pre code {
 
 .row {
   margin-right: -15px;
-  margin-left: -15px;
   padding: 10px;
   border-radius:	3px;
 }
-
-
 
 .row:before,
 .row:after {
@@ -4542,8 +4542,8 @@ textarea.input-group-sm > .input-group-btn > .btn {
 .navbar-inverse .navbar-nav > .active > a,
 .navbar-inverse .navbar-nav > .active > a:hover,
 .navbar-inverse .navbar-nav > .active > a:focus {
-  color: #ffffff;
-  background-color: #080808;
+  color: #000000;
+  background-color: #ffffff;
 }
 
 .navbar-inverse .navbar-nav > .disabled > a,
