@@ -19,6 +19,10 @@
 	background-color: #eeeeee;
 	}
 
+.img-cen {
+	text-align: center;
+	}
+
 article,
 aside,
 details,
@@ -312,7 +316,7 @@ html {
 body {
   font-family: Balthazar, Cardo, Ovo, serif;
 	/*font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;*/
-  font-size: 18px;
+  font-size: 20px;
   line-height: 1.3;
   color: #555555;
   background-image: url(../graph1.jpeg)
